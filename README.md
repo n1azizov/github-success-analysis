@@ -90,6 +90,17 @@ jupyter notebook
 
 Open the notebook and execute all cells.
 
+## Feedback and Contact
+
+This project was developed as part of an independent undergraduate research study. I welcome suggestions, constructive criticism, and discussions regarding the methodology, results, or potential extensions of this work.
+
+If you would like to get in touch, you can contact me via:
+
+* Email: [n.azizov@ufaz.az](mailto:n.azizov@ufaz.az)
+* LinkedIn: https://linkedin.com/in/n1azizov
+
+Thank you for your interest in this project.
+
 ## Author
 
 Nadir Azizov
