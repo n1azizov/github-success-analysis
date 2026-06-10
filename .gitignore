@@ -1,0 +1,53 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.ipynb_checkpoints/
+
+# Virtual environments
+
+venv/
+.venv/
+env/
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Data files (optional)
+
+# Uncomment if you don't want to upload raw data
+
+# data/
+
+# LaTeX source files
+
+paper/
+
+# LaTeX build files
+
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+
+# Operating system files
+
+.DS_Store
+Thumbs.db
+
+# VS Code
+
+.vscode/
