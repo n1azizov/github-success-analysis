@@ -17,7 +17,7 @@ The project investigates factors associated with GitHub repository popularity us
 
 The dataset was obtained from Kaggle:
 
-* GitHub Top 500 Repositories by Stars
+* [GitHub Top 500 Repositories by Stars](https://www.kaggle.com/datasets/ibrahimqasimi/github-top-500-repositories-by-stars)
 * Author: Muhammad Ibrahim Qasmi
 
 The dataset contains repository-level information, including:
