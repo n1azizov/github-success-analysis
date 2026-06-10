@@ -53,7 +53,7 @@ Main steps:
 
 **What Drives GitHub Repository Success? A Data-Driven Analysis of Open-Source Projects**
 
-[Read the paper](paper.pdf)
+[Read the paper](https://github.com/nlazizov/github-success-analysis/raw/main/paper.pdf)
 
 ## Repository Structure
 
