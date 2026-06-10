@@ -51,9 +51,9 @@ Main steps:
 
 ## Research Paper
 
-**What Drives GitHub Repository Success? A Data-Driven Analysis of Open-Source Projects**
+The final research paper is available as:
 
-[Read the paper](https://github.com/nlazizov/github-success-analysis/raw/main/paper.pdf)
+- [`paper.pdf`](paper.pdf)
 
 ## Repository Structure
 
