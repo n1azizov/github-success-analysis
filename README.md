@@ -92,7 +92,7 @@ Open the notebook and execute all cells.
 
 ## Feedback and Contact
 
-This project was developed as part of an independent undergraduate research study. I welcome suggestions, constructive criticism, and discussions regarding the methodology, results, or potential extensions of this work.
+This project was developed as part of an independent undergraduate research study. I welcome suggestions, constructive criticism, and discussions regarding the methodology, results, or potential extensions of this work. If you identify potential improvements, notice any issues, or have ideas for extending the analysis, please feel free to open an issue or submit a pull request.
 
 If you would like to get in touch, you can contact me via:
 
