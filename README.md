@@ -51,9 +51,9 @@ Main steps:
 
 ## Research Paper
 
-The final research paper is available as:
+**What Drives GitHub Repository Success? A Data-Driven Analysis of Open-Source Projects**
 
-- `paper.pdf`
+[Read the paper](paper.pdf)
 
 ## Repository Structure
 
