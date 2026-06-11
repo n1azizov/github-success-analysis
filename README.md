@@ -97,7 +97,7 @@ This project was developed as part of an independent undergraduate research stud
 If you would like to get in touch, you can contact me via:
 
 * Email: [n.azizov@ufaz.az](mailto:n.azizov@ufaz.az)
-* LinkedIn: https://linkedin.com/in/n1azizov
+* LinkedIn: [Nadir Azizov](https://linkedin.com/in/n1azizov)
 
 Thank you for your interest in this project.
 
